@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning NextJS with Typescript.
 
 - 🚀 My landed websites are.
+  
+- [Portfolio](https://riturajmahapatra.notion.site/Portfolio-6cfdbd4c08914f84872e291c8042795d?pvs=4)
 
 - [Jansevaa](https://jansevaa.com/)
 
