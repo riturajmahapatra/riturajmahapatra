@@ -12,7 +12,7 @@
   
 - [Portfolio](https://riturajmahapatra.notion.site/Portfolio-6cfdbd4c08914f84872e291c8042795d?pvs=4)
 
-- [Jansevaa](janseva-2-zeta.vercel.app/)
+- [Jansevaa](https://janseva-2-zeta.vercel.app/)
   
 - [Car Wala](https://car-wala.vercel.app/)
 
