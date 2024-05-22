@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Rituraj Sinha Mahapatra</h1>
-<h3 align="center">Passionate Front-End Developer & UI/UX Designer</h3>
+<h3 align="center">Passionate Full-Stack Developer & UI/UX Designer</h3>
 <h3 align="center">Crafting Modern and Responsive Web Interfaces with React and Front-End Technologies</h3>
 
 - 🛒 I'm currently working on a large-scale E-commerce Website
