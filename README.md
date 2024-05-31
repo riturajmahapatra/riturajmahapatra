@@ -10,7 +10,7 @@
 
 - 🚀 My landed websites are.
   
-- [Portfolio](https://riturajmahapatra.notion.site/Portfolio-6cfdbd4c08914f84872e291c8042795d?pvs=4)
+- [Portfolio]([https://riturajmahapatra.notion.site/Portfolio-6cfdbd4c08914f84872e291c8042795d?pvs=4](https://portfolio-2024-kappa-six.vercel.app/))
 
 - [Jansevaa](https://janseva-2-zeta.vercel.app/)
   
