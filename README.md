@@ -4,9 +4,9 @@
 <h3 align="center">Passionate Full-Stack Developer & UI/UX Designer</h3>
 <h3 align="center">Crafting Modern and Responsive Web Interfaces with React and Full-Stack Technologies</h3>
 
-- 🛒 I'm currently working on a large-scale E-commerce Website
+- 🛒 I'm currently working with AI Thinkers.
 
-- 🌱 I’m currently learning NextJS with Typescript.
+- 🌱 I’m currently learning AWS and AI Engineering. 
 
 <!--
 - 🚀 My landed websites are.
