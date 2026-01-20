@@ -8,17 +8,15 @@
 
 - 🌱 I’m currently learning NextJS with Typescript.
 
+<!--
 - 🚀 My landed websites are.
   
 - [Portfolio](https://portfolio-2024-kappa-six.vercel.app/)
-
 - [Jansevaa](https://janseva-2-zeta.vercel.app/)
-  
 - [Car Wala](https://car-wala.vercel.app/)
-
 - [Bubble Game](https://bubble-game-rho.vercel.app/)
-
 - [Trivia Game](https://riturajmahapatra.github.io/Trivia-Game/)
+-->
 
 - 📫 How to reach me: riturajmahapatra@gmail.com
   
